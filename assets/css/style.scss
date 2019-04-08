@@ -2,3 +2,8 @@
  ---
 
 @import "{{ site.theme }}";
+
+p.dateline {
+ font-size: x-small;
+ color: #888;
+}

@@ -1,2 +1,4 @@
 title: Chris Hathcock's Blog
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
